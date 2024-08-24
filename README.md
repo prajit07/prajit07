@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @prajit07
-- 👀 I’m interested in GAME DEVELOPING
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in CYBER SECURITY
+- 🌱 I’m currently learning C, C++
 - 💞️ I’m looking to collaborate on UNITY
+- 🍕 What I Learn't Python
 - 📫 How to reach me PRAJITJANAKIRAMAN@GMAIL.COM
 
 <!---
