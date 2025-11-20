@@ -21,5 +21,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=prajit07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ### TryHackMe Stats
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/p01d0g07.png)
+![TryHackMe](<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3389859" style='border:none;'/>)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
