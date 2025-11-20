@@ -22,6 +22,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=prajit07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### TryHackMe Stats
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3389859" style='border:none;'></iframe>
+![](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3389859" style='border:none;'></iframe>)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
